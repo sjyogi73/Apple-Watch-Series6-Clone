@@ -1,0 +1,1106 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #000 !important;
+}
+#img-bg{
+    background-image: url("./Img/imgsbg.jpg");
+    background-color: #cccccc;
+    height: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#img-blood{
+    opacity: 0.2;
+    background-color: rgba(0, 0, 0, .5);
+}
+#Nav-brand-1{
+    padding: 0 0 0 170px;
+}
+#nav-bar-1{
+    background-color: rgba(8, 0, 0, 0.301);
+   
+}
+#nav-bar-2{
+    background-color: rgba(177, 179, 179, 0.171);
+    border-bottom: 0.5px solid rgb(43, 42, 42);
+}  
+.navbar-nav li{
+    padding: 0px 60px 0 0;
+}
+ .navbar-nav li:hover {
+    transform: scale(1.1);
+ }
+.navbar-nav li a{
+    font-size: 14px;
+    opacity: 0.8;
+    color: #fff !important;
+    font-weight: 300;
+    float: none;
+}
+.nav-link{
+    color: #fff;
+}
+.navbar-brand{
+    padding: 0 60px 0 0; 
+}
+#li-1{
+    font-size: 22px;
+    padding-right: 20px;
+}
+.navbar-nav #active-btn{
+    font-size: 12px;
+    color: #fff;
+}
+#nav-1{
+    color: #fff !important;
+    padding-right: 0px;
+}
+.navbar-nav #li-btn{
+    padding-right: 75px;
+}
+.navbar-brand:hover {
+   transform: scale(1.1);
+}
+#nav-brand-2{
+    padding: 0 0 0 170px;
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+.nav-item-1{
+    font-size: 15px;
+    color: #fff;
+}
+#btn-nav{
+    margin-top: 7px;
+    font-size: 12px;
+    width: 60px;
+    padding: 3px;
+    border-radius: 12px;
+    margin-right: 0%;
+}
+
+/*********************Content***********************/
+#content{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+#i-watch{
+    font-weight: 800;
+    font-size: 50px;
+}
+#i-watch:hover {
+   transform: scale(1.1);
+}
+#p-series{
+    font-size: 22px;
+    color: red;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+ #i-content{
+    font-weight: 900;
+    font-size: 60px;
+    margin: 0 110px 0 110px;
+}
+#content #main-content{
+    font-weight: 1200;
+    font-size: 24px;
+    padding:60px 0 70px 0;
+    text-align: center;
+    margin: 0 310px 0 310px;
+    border-spacing: 0px;
+}
+#play-btn  {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400px;
+    padding:90px 0 0 0;
+}
+#play-btn:hover {
+    transform: scale(1.1);
+ }
+
+.far{
+    padding-left: 15px;
+}
+
+/*********************************Blood Oxygen************************************************/
+.card-body{
+    background-image: url(./Img/blood\ pic.jpg);
+    background-repeat: none;
+}
+#bg-content{
+    color: #fff;
+    opacity: 0.5;
+    font-weight: 800;
+}
+.card-title{
+    font-weight: 800;
+    color: #fff;
+    opacity: 1;
+    padding: 90px 0 0 110px;
+    font-size: 50px;    
+}
+/**********************Blood Oxygen-2*********************/
+#Blood-Oxygen{
+    color: #fff;
+    background-color: rgba(44, 43, 43, 0.705);
+    padding: 30px 0 30px 0;  
+}
+.promo-Title{
+    width: 710px;
+    background-color: #000;
+    padding: 180px 140px 180px 140px  ;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px 0 0 60px;
+}
+.play-img{
+    width: 710px;
+    margin: 35px 0 0 60px;
+    height: 550px;
+
+}
+.img-side{
+    margin: 20px 0 30px 40px;
+    width: 470px;
+    height: 1185px;
+}
+
+/***************************Animation content************************/
+#banner-4{
+    color: #fff;
+    background-color: black;
+    padding: 0%;
+    padding: 80px 0 30px 0;
+}
+.promo-title-4{
+    width: 400px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px 0 0 120px;
+
+}
+.promo-title-4:hover{
+    transform: scale(1.5);
+}
+
+.play-btn{
+    width: 45px;
+    margin: 20px;
+
+}
+#light-content{
+    color: aliceblue;
+    opacity: 0.5;
+}
+
+#baner-4a{
+    font-size: 22px;
+    color: #fff;
+    margin: 300px 0 0 120px;
+    padding-top: 1000px;
+
+}
+.img-fluid-4{
+    width: 600px;
+    height: 900px;
+    transform-origin: 50% 50%;
+    transition: transform 30s linear;
+}
+.img-fluid-4:hover{
+    transform: scale(2) ;
+}
+/*******************************Animation Content-2 ****************************/
+#banner-5{
+    margin-top: 60px;
+}
+#promo-title-5{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #fff;
+    width: 85%;
+    margin-left: 40px;
+}
+#ecg-span{
+    margin-left: 50px;
+    width: 85%;
+    background-color: rgba(0, 0, 0, 0.308);
+}
+#head-ani{
+    background-color: rgba(0, 0, 0, 0.308);
+}
+#span-ecg{
+    margin-left:40px
+    color: #fff;
+    opacity: 0.9;
+    font-weight: 1000;
+}
+#span-cont{
+    color: white;
+    font-weight: 1000;
+}
+#promo-title2{
+    width: 85%;
+    margin: 180px 0 0 40px;
+    color: #fff;
+    font-size: 20px;
+
+}
+#promo-span{
+    color: aliceblue;
+    opacity: 0.5;
+     margin: 0 0 0 40px;
+}
+#promo-btn{
+    color: #fff;
+    margin: 40px 0 0 40px;
+}
+.img-fluid-5{
+    width: 600px;
+    height: 900px;
+    transform-origin: 50% 50%;
+    transition: transform 30s linear;
+}
+.img-fluid-5:hover{
+    transform: scale(2) ;
+}
+/************************ Better in night*************************/
+
+#about-us
+{
+    background: rgba(0, 0, 0, 0.342);
+    padding:50px 0 30px 80px;
+}
+
+.title-6{
+    padding-left: 70px;
+    font-weight: 800;
+    font-size: 60px;
+    color: #dfe0e2;
+    opacity: 0.5
+}
+.Title-h2{
+    padding-left: 70px;
+    color: white;
+    font-weight: 800;
+    font-size: 50px;
+    width: 60%;
+}
+.about-title-6{
+    padding-left: 70px;
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+    width: 60%;
+    padding-top: 20px;
+}
+
+.img-about{
+    padding-top: 40px;
+}
+
+/*****************Watch Details*****************/
+.container-7{
+    margin-left: 100px;
+}
+#watch-h2{
+    padding-top: 50px;
+}
+.heading-7{
+    text-align: center;
+}.model{
+    font-size: 20px;
+    color:rgb(15, 15, 219);
+}.rate{
+    font-weight: 600;
+}.info{
+    color:#707078;
+}.note>p{
+    width: 175px;
+}#button{
+    padding:5px 25px;
+    background-color: blue;
+    color:white;
+    border-radius: 25px;
+    border: 1px solid blue;
+}.link{
+    color:blue;
+}
+#watch-content{
+    margin-top: 50px;
+    background-color: #fff;
+}
+/****************Footer****************/
+ul li{
+    list-style: none;
+}
+ul li a{
+    color:white;
+    text-decoration: none;
+    color: #000;
+}
+#footer{
+    background-color: rgb(224, 221, 221);
+    color: #000;
+}
+.footer-box img{
+    width: 40px;
+    margin-bottom: 20px;
+}
+.footer-img{
+    width: 20px;
+    padding-right: 4px;
+}
+.footer-box .form-control{
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+.footer-box .btn-primary{
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    margin-top: 30px;
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+}
+hr{
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
